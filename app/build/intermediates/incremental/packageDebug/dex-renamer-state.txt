@@ -1,0 +1,7 @@
+#Wed Mar 01 00:12:36 PST 2017
+base.0=D\:\\Git\\kboranbayev\\OpenData\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2491b794125fdb82fe10f65490e655f80e381916
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Git\\kboranbayev\\OpenData\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f312fb7574e8aca5316b1aacb092fcced8b26429\\classes.dex
+base.1=D\:\\Git\\kboranbayev\\OpenData\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f312fb7574e8aca5316b1aacb092fcced8b26429
+file.0=D\:\\Git\\kboranbayev\\OpenData\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2491b794125fdb82fe10f65490e655f80e381916\\classes.dex
